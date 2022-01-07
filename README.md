@@ -1,7 +1,5 @@
 # Dev Project Generator
 
-A script to generate folder structure and files for Python and HTML projects.
-
 This is a menu-driven script which provides a way to generate folder structure for a personal Python or HTML project.
 
 When run, this will start with an option to choose with project to generate - as seen below.
