@@ -23,7 +23,7 @@ When run, this will start with an option to choose with project to generate - as
 
 **Files**
 
-* untitled_YYYYMDD_1.000
+* untitled_YYYYMMDD_1.000
 
 ## 2. HTML
 
