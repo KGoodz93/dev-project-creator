@@ -25,6 +25,8 @@ When run, this will start with an option to choose with project to generate - as
 
 * untitled_YYYYMMDD_1.000
 
+![image](https://user-images.githubusercontent.com/82043281/148569556-55be1cd4-3601-4e12-82b6-eb821ff58946.png)
+
 ## 2. HTML
 
 Directories
@@ -37,5 +39,7 @@ Directories
 **Files**
 
 * index.html
+
+![image](https://user-images.githubusercontent.com/82043281/148569630-3fc1ca10-44e1-4c32-a6e5-6ddfd4d9e130.png)
 
 Once this has been generated, this will open the newly created project directory in a explorer window.
