@@ -10,18 +10,17 @@ When run, this will start with an option to choose with project to generate - as
 
 **Directories**
 
+* build
 * db
-* media
-* media/icons
-* media/images
-* media/sounds
-* media/ui
-* logs
-* scripts
+* docs
+* UI
+* venv
 
 **Files**
 
-* untitled_YYYYMMDD_1.000
+* script.py
+* requirements.txt
+* config.ini
 
 ![image](https://user-images.githubusercontent.com/82043281/148569556-55be1cd4-3601-4e12-82b6-eb821ff58946.png)
 

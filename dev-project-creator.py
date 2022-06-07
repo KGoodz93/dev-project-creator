@@ -40,6 +40,9 @@ def py_project():
     with open("requirements.txt", "w", ) as file2:
         file2.write("")
 
+    with open("config.ini", "w", ) as file3:
+        file3.write("[DEFAULT]")
+
 def html_project():
 
     # Create project directory
