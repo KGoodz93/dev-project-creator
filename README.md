@@ -4,7 +4,7 @@ This is a menu-driven script which provides a way to generate folder structure f
 
 When run, this will start with an option to choose with project to generate - as seen below.
 
-![image](https://user-images.githubusercontent.com/82043281/173362554-f605731b-0a0e-4d74-81bc-7055c1a872cd.png)
+<img width="467" alt="Screenshot 2022-06-13 140806" src="https://user-images.githubusercontent.com/82043281/173363323-f1eecb40-c50b-4433-80d4-514421d30279.png">
 
 ## 1. Python
 
@@ -26,8 +26,6 @@ When run, this will start with an option to choose with project to generate - as
 * requirements.txt
 * config.ini
 
-![image](https://user-images.githubusercontent.com/82043281/148569556-55be1cd4-3601-4e12-82b6-eb821ff58946.png)
-
 ## 2. HTML
 
 <img width="426" alt="Screenshot 2022-06-13 141013" src="https://user-images.githubusercontent.com/82043281/173363100-c036fdb0-befc-4bc5-bc1f-2c2be15b834d.png">
@@ -42,5 +40,7 @@ Directories
 **Files**
 
 * index.html
+* 
+<img width="530" alt="Screenshot 2022-06-13 141037" src="https://user-images.githubusercontent.com/82043281/173363402-f59081dd-58c4-4778-bdb8-cdd29605a5d1.png">
 
-Once this has been generated, this will open the newly created project directory in a explorer window.
+Once this has been generated, this will open the newly created project directory in an explorer window.
