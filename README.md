@@ -4,9 +4,13 @@ This is a menu-driven script which provides a way to generate folder structure f
 
 When run, this will start with an option to choose with project to generate - as seen below.
 
-![image](https://user-images.githubusercontent.com/82043281/148568337-c0ba812b-588c-4b9a-852f-25678d5b50cd.png)
+![image](https://user-images.githubusercontent.com/82043281/173362554-f605731b-0a0e-4d74-81bc-7055c1a872cd.png)
 
 ## 1. Python
+
+<img width="467" alt="Screenshot 2022-06-13 140910" src="https://user-images.githubusercontent.com/82043281/173362717-8a275cde-b9a7-40bd-bf7d-1d316747e81d.png">
+
+<img width="527" alt="Screenshot 2022-06-13 140932" src="https://user-images.githubusercontent.com/82043281/173362872-ad1b09ed-08d0-4eae-8adb-f00134da8a75.png">
 
 **Directories**
 
@@ -26,6 +30,8 @@ When run, this will start with an option to choose with project to generate - as
 
 ## 2. HTML
 
+<img width="426" alt="Screenshot 2022-06-13 141013" src="https://user-images.githubusercontent.com/82043281/173363100-c036fdb0-befc-4bc5-bc1f-2c2be15b834d.png">
+
 Directories
 
 * media
@@ -36,7 +42,5 @@ Directories
 **Files**
 
 * index.html
-
-![image](https://user-images.githubusercontent.com/82043281/148569630-3fc1ca10-44e1-4c32-a6e5-6ddfd4d9e130.png)
 
 Once this has been generated, this will open the newly created project directory in a explorer window.
