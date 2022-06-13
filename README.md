@@ -32,6 +32,8 @@ Once this has been generated, this will open the newly created project directory
 
 <img width="426" alt="Screenshot 2022-06-13 141013" src="https://user-images.githubusercontent.com/82043281/173363100-c036fdb0-befc-4bc5-bc1f-2c2be15b834d.png">
 
+<img width="530" alt="Screenshot 2022-06-13 141037" src="https://user-images.githubusercontent.com/82043281/173363402-f59081dd-58c4-4778-bdb8-cdd29605a5d1.png">
+
 **Directories**
 
 * media
@@ -42,6 +44,3 @@ Once this has been generated, this will open the newly created project directory
 **Files**
 
 * index.html
-
-<img width="530" alt="Screenshot 2022-06-13 141037" src="https://user-images.githubusercontent.com/82043281/173363402-f59081dd-58c4-4778-bdb8-cdd29605a5d1.png">
-
